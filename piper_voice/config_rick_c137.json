@@ -1,0 +1,20 @@
+{
+  "model": "rick_c137",
+  "language": "en",
+  "dataset": "rick_c137_corpus",
+  "sample_rate": 22050,
+  "phoneme_type": "espeak",
+  "batch_size": 16,
+  "epochs": 800,
+  "learning_rate": 0.001,
+  "weight_decay": 1e-6,
+  "scheduler": "cosine_annealing",
+  "dropout": 0.2,
+  "hidden_size": 256,
+  "num_blocks": 6,
+  "speaker_embedding_size": 32,
+  "noise_scale": 0.667,
+  "duration_scale": 1.0,
+  "speaker": "rick-c137",
+  "cleanup_prev_voices": false
+}

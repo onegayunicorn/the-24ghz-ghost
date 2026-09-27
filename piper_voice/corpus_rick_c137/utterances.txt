@@ -1,0 +1,10 @@
+utterance_0001|Wubba lubba dub dub!|excited
+utterance_0002|Listen, Morty, nobody exists on purpose...|sarcastic
+utterance_0003|I've been to a thousand realities and nothing scares me.|neutral
+utterance_0004|This is simple quantum mechanics, Morty!|frustrated
+utterance_0005|I'm the smartest man in the universe.|triumphant
+utterance_0006|Morty, grab the portal gun!|excited
+utterance_0007|C-137. That's who I am.|neutral
+utterance_0008|Dimension after dimension and it's always the same crap.|mellow
+utterance_0009|You think you're the author, don't you?|sarcastic
+utterance_0010|I am what I was going to be.|sovereign
